@@ -5,6 +5,8 @@ March 23rd 2013
 10 players
 Sebastian Fredenberg
 
+-- 1GW3+4!
+
 Deck Name: Magic Cocktail
 
 Crypt (12 cards, min=12, max=20, avg=3.83)

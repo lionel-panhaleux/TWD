@@ -5,6 +5,8 @@ February 9th 2014
 13 players
 Tiago Deividy Bento Serafim
 
+-- 3GW12+5!
+
 Deck Name: Giovanni Shambling Bleed
 
 Crypt (12 cards, min=16, max=29, avg=5.75)

@@ -4,6 +4,8 @@ July 18th 2009
 13 players
 Todd Banister
 
+-- 2GW5!
+
 Crypt (12 cards, min=4, max=28, avg=3.75)
 -----------------------------------------
 4x Anarch Convert      1  -none-               Caitiff:ANY

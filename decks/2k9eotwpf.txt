@@ -5,6 +5,8 @@ August 1st 2009
 24 players
 Tristan Ducousso
 
+-- 3GW12.5!
+
 Deck Name: TWD Edge of the World
 
 Crypt (12 cards, min=7, max=26, avg=4.08)

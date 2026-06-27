@@ -5,6 +5,8 @@ May 25th 2007
 17 players
 Matthew Morgan
 
+-- 2GW6.5!
+
 Deck Name: Inspiring Innocents
 
 Description: Get out a ton of Imbued and Strike with Conviction until

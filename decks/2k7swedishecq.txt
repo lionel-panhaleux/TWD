@@ -4,6 +4,8 @@ April 7th 2007
 35 players
 Roger Carhult
 
+-- 3GW11!
+
 Deck Name: Swedish ECQ Winner 2007
 
 Crypt (12 cards, min=16, max=31, avg=6)

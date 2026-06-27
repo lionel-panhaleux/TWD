@@ -5,6 +5,8 @@ May 27th 2006
 18 players
 Pauli Kiova
 
+-- 2GW8.5!
+
 Deck Name: Sheldon is the Lord!
 
 Crypt (12 cards, min=28, max=36, avg=8.08)

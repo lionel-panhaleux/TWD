@@ -5,6 +5,8 @@ June 14th 2008
 10 players
 Hugh Angseesing
 
+-- 2GW6!
+
 Crypt (12 cards, min=20, max=28, avg=5.92)
 ------------------------------------------
 5x Antonio d'Erlette          5  THA dom for pot            Tremere antitribu:4

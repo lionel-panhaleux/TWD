@@ -4,6 +4,8 @@ February 1st 2009
 10 players
 Stewart MacLeod
 
+-- 3GW9.5!
+
 Deck Name: Illusions of Madness
 
 Crypt (12 cards, min=18, max=28, avg=5.75)

@@ -5,6 +5,8 @@ December 17th 2006
 13 players
 John Newquist
 
+-- 2GW7!
+
 Deck: The Darby Dance
 
 Crypt (12 cards, min=14, max=21, avg=4.25)

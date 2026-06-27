@@ -5,6 +5,8 @@ November 10th 2007
 13 players
 Miguel Cortes
 
+-- 2GW9!
+
 Deck Name: Osebo Esteroides
 
 Crypt (12 cards, min=24, max=38, avg=7.83)

@@ -5,6 +5,8 @@ July 20th 2013
 18 players
 Mehdi Mazni
 
+-- 2GW8+1.5!
+
 Decklist:
 
 Crypt (12 cards, min=11, max=30, avg=5.25)

@@ -5,6 +5,8 @@ October 8th 2006
 40 players
 Patrick Lusk
 
+-- 2GW7.5!
+
 Deck Name: Got Confusion?
 
 Crypt (12 cards, min=17, max=28, avg=5.58)

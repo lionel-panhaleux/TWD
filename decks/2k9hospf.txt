@@ -4,6 +4,8 @@ January 10th 2009
 19 players
 Vincent Ripoll
 
+-- 2GW9.5!
+
 Deck Name: Aim and Chain
 
 Description: An easy to play bruise'n'bleed deck. Get out the 5-caps,

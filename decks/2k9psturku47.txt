@@ -4,6 +4,8 @@ March 8th 2009
 20 players
 Ville Ruuskanen
 
+-- 2GW9.5!
+
 Deck Name: No Alchemy
 
 Description: Really simple Tremere Anathema deck, no alchemy needed...

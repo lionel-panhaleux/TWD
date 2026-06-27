@@ -4,6 +4,8 @@ January 26th 2008
 14 players
 Iñaki Jiménez Alonso
 
+-- 2GW9!
+
 Ventrue Antitribu Redux
 
 Crypt (12 cards, min=21, max=30, avg=6.42)

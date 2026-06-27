@@ -5,6 +5,8 @@ June 23rd 2010
 42 players
 Cory Busch Kendall
 
+-- 3GW10!
+
 Crypt (13 cards, min=13, max=19, avg=4)
 ---------------------------------------
 3x François "Warden" Loehr     3  def jud      Judge:4

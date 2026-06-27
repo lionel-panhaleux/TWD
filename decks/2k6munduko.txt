@@ -4,6 +4,8 @@ August 26th 2006
 37 players
 Iñaki Jiménez Alonso
 
+-- 2GW9!
+
 Deck Name: Overpowered
 
 Crypt (12 cards, min=27, max=43, avg=8.83)

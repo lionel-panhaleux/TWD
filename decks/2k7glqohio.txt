@@ -5,6 +5,8 @@ June 17th 2007
 16 players
 Mark Loughman
 
+-- 2GW9!
+
 Hallmark
 
 Crypt (12 cards, min=20, max=44, avg=8.5)

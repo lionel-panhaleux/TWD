@@ -5,6 +5,8 @@ April 28th 2012
 28 players
 Aleksander Idziak
 
+-- 2GW7.5+1.5!
+
 Deck Name: Tremere - Gerald Windham - I'm Flying
 
 Description: Go for Learjet, Freak Drive, setup with Govern

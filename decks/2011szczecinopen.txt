@@ -5,6 +5,8 @@ October 8th 2011
 15 players
 Robert Cieslarczyk
 
+-- 1GW5+0.5!
+
 Deck Name: Ahrimanes Wall
 
 Crypt (12 cards, min=15, max=28, avg=5.42)

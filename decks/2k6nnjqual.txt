@@ -5,6 +5,8 @@ March 18th 2006
 25 players
 Matthew Morgan
 
+-- 2GW7.5!
+
 Deck Name: This is not a Hatchling deck
 
 Description: It's basically a swarm deck that can fight. I even found

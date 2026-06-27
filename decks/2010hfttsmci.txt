@@ -4,6 +4,8 @@ May 2nd 2010
 43 players
 Francesco D'alessio
 
+-- 2GW8!
+
 Deck Name: il Fakiro d'Alessio
 
 Crypt (12 cards, min=26, max=44, avg=9)

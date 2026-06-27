@@ -5,6 +5,8 @@ December 18th 2011
 25 players
 Luis Fonseca
 
+-- 1GW4.5+3!
+
 Deck Name: The Ingrid Rossler Show
 Created by: Manuel Diehm (+Gangrel Justicar card added from Luis)
 

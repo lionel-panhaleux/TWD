@@ -5,6 +5,8 @@ June 18th 2006
 20 players
 Ralf Lammert
 
+-- 1GW5.5!
+
 Deck Name: Doggie Just Wants To Play
 
 Description: Some "broken" Tupdog deck ...

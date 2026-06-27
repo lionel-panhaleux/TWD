@@ -5,6 +5,8 @@ August 2nd 2008
 39 players
 Iñaki Puigdollers
 
+-- 4GW13.5!
+
 Deck Name: Lucinde' s Bag-of-all-trades
 
 Crypt (12 cards, min=14, max=39, avg=6.83)

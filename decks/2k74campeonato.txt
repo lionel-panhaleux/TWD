@@ -5,6 +5,8 @@ September 15th 2007
 10 players
 Thyelles Yoshitomi
 
+-- 2GW6!
+
 Deck Name: Chuck de bigode sinistro (Sinister Chuck with mustache)
 
 Crypt (13 cards, min=16, max=34, avg=6.46)

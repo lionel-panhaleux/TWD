@@ -5,6 +5,8 @@ January 28th 2012
 27 players
 Mathias Skubich
 
+-- 2GW8+1.5!
+
 Deck Name: !Ventrue grinder 2
 
 Crypt (12 cards, min=16, max=30, avg=5.83)

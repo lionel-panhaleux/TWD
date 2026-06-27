@@ -4,6 +4,8 @@ June 27th 2010
 22 players
 Sergio Gracia
 
+-- 2GW12!
+
 Deck Name: CrewCuervos
 
 Crypt (12 cards, min=4, max=29, avg=4.17)

@@ -4,6 +4,8 @@ June 10th 2007
 13 players
 Christoph Bertolo
 
+-- 3GW10.5!
+
 Deck Name: Synesios goes Forward
 
 Description: Synesios MultiAct / Pre + Obf Vote and Bleed

@@ -4,6 +4,8 @@ July 27th 2008
 27 players
 Ivor Blockley
 
+-- 3GW11.5!
+
 Deck Name: Sempiternal Setites
 
 Crypt (12 cards, min=12, max=23, avg=4.58)

@@ -5,6 +5,8 @@ January 15th 2011
 10 players
 Reyda Seddiki
 
+-- 3GW9+4!
+
 Deck: Abomboyz
 
 Crypt (12 cards, min=20, max=35, avg=7.08)

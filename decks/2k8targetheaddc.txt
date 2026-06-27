@@ -4,6 +4,8 @@ April 26th 2008
 10 players
 Matthew Avery
 
+-- 0GW3.5!
+
 Angel of Conviction
 
 Crypt (12 cards, min=15, max=21, avg=4.58)

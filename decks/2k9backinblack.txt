@@ -5,6 +5,8 @@ September 12th 2009
 15 players
 Waldo Peyrau
 
+-- 2GW9!
+
 Deck Name: Ishtarri Sangrando
 
 Crypt (12 cards, min=12, max=22, avg=4.33)

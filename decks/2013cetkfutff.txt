@@ -5,6 +5,8 @@ February 2nd 2013
 11 players
 Juan Galarreta
 
+-- 1GW2.5+5!
+
 Deck Name: Shattering Voters
 Created by: Jaime Manzanares
 

@@ -5,6 +5,8 @@ May 18th 2008
 15 players
 Dave Pennington
 
+-- 2GW7.5!
+
 2/3 Tremere Rocket Science
 
 Crypt (12 cards, min=14, max=27, avg=5.25)

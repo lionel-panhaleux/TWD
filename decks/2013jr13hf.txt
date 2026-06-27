@@ -5,6 +5,8 @@ February 24th 2013
 14 players
 Tom Lindberg
 
+-- 1GW5+1.5!
+
 Deck Name: Ondine has hell to pay
 
 Crypt (12 cards, min=4, max=36, avg=4.58)

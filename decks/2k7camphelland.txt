@@ -4,6 +4,8 @@ July 7th 2007
 13 players
 Joel Toledo
 
+-- 0GW4!
+
 Deck Name: Arika's Stranglehold
 
 Crypt (12 cards, min=18, max=44, avg=8.5)

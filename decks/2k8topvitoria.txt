@@ -5,6 +5,8 @@ February 23rd 2008
 10 players
 Luiz Mello
 
+-- 3GW9.5!
+
 Deck Name: Feral Royalty
 
 Crypt (12 cards, min=11, max=21, avg=3.92)

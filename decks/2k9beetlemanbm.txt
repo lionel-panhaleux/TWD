@@ -4,6 +4,8 @@ January 25th 2009
 13 players
 Greg Williams
 
+-- 2GW7.5!
+
 DECK NAME: Diary of a Mad Love Song (after the great mixed-cover song by A Perfect Circle)
 
 Crypt (13 cards, min=4, max=16, avg=2.46)

@@ -5,6 +5,8 @@ August 9th 2008
 16 players
 Andy Bennett
 
+-- 3GW11!
+
 Crypt (12 cards, min=13, max=16, avg=3.75)
 ------------------------------------------
 4x Lorrie Dunsirn     4  POT for nec  Abomination:4

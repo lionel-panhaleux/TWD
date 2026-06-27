@@ -4,6 +4,8 @@ December 16th 2007
 23 players
 Pedro Paulo de Sousa Mendes
 
+-- 3GW12.5!
+
 Deck Name: Imbued at Last
 
 Description: The deck's goal is to setup as fast as you can by

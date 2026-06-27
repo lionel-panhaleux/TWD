@@ -5,6 +5,8 @@ December 7th 2013
 13 players
 Stefan Karlsson
 
+-- 2GW7+4!
+
 Deck Name: Ban Giant's Blood
 
 Crypt (12 cards, min=35, max=40, avg=9.42)

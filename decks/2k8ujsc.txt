@@ -5,6 +5,8 @@ June 28th 2008
 10 players
 Gonzalo Andrés del Río Díaz
 
+-- 3GW13!
+
 Deck Name: !Ventrue
 
 Crypt (12 cards, min=24, max=33, avg=7.25)

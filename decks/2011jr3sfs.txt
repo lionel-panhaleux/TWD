@@ -5,6 +5,8 @@ December 17th 2011
 16 players
 Matias Frosterus
 
+-- 2GW7.5+1.5!
+
 Deck Name: New Brujah Royalty
 
 Inspired by Patrick Robinsson's Norway 2010 ECQ deck but

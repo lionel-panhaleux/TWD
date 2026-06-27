@@ -5,6 +5,8 @@ October 6th 2006
 43 players
 Jay Kristoff
 
+-- 3GW10!
+
 Beef Chunks 'n' Gravy
 
 Crypt (12 cards, min=13, max=26, avg=4.75)

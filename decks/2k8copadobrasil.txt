@@ -5,6 +5,8 @@ April 20th 2008
 12 players
 Luiz Fernando K. Ferreira
 
+-- 0GW3!
+
 Deck Name: Campeão da Copa do Brasil
 
 Crypt (12 cards, min=37, max=44, avg=10.08)

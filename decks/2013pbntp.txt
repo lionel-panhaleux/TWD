@@ -5,6 +5,8 @@ February 9th 2013
 18 players
 Aleksander Idziak
 
+-- 1GW4.5+5!
+
 Deck Name: Gangrel - Stanislava - Mind Rape
 
 Crypt (13 cards, min=23, max=44, avg=8.69)

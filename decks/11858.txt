@@ -6,7 +6,7 @@ December 1st 2024
 Michael Holmström
 https://www.vekn.net/event-calendar/event/11858
 
--- 3vp in final
+-- 1GW3+3!
 
 Crypt (12 cards, min=34, max=44, avg=9.67)
 ------------------------------------------

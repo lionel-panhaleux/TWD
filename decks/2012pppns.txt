@@ -5,6 +5,8 @@ October 20th 2012
 10 players
 Txus Alútiz Lizarraga
 
+-- 2GW7+4!
+
 Deck Name: Rabbat Lurker
 
 Crypt (12 cards, min=22, max=31, avg=6.75)

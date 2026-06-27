@@ -6,7 +6,7 @@ September 27th 2014
 Lajos Székely
 https://www.vekn.net/event-calendar/event/7820
 
--- 1.5vp in final
+-- 0GW4+1.5!
 
 Crypt (12 cards, min=12, max=34, avg=6)
 ---------------------------------------

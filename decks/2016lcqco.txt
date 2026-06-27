@@ -5,6 +5,8 @@ June 16th 2016
 30 players
 Randal Rudstam
 
+-- 1GW3+2.5!
+
 Deck Name: Reflections on life and death
 
 Crypt (12 cards, min=40, max=44, avg=10.33)

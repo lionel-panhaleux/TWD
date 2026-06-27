@@ -4,6 +4,8 @@ April 29th 2007
 10 players
 David Quiñonero-Santiago
 
+-- 3GW10!
+
 Deck Name: Ahrimanes_4
 
 Crypt (12 cards, min=20, max=28, avg=5.83)

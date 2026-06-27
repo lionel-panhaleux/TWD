@@ -4,6 +4,8 @@ August 18th 2007
 22 players
 Daniel Carretero Ferres
 
+-- 3GW12!
+
 Deck Name: Turbo Parity
 
 Description: Based on Legendary Nosferatu by Kamel Senni

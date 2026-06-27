@@ -5,6 +5,8 @@ January 13th 2013
 17 players
 Pedro Coelho
 
+-- 2GW9+1.5!
+
 Deck Name: Nadima Wall
 
 Crypt (13 cards, min=13, max=32, avg=5.62)

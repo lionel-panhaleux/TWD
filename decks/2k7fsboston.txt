@@ -5,6 +5,8 @@ December 2nd 2007
 16 players
 John Eno
 
+-- 2GW7.5!
+
 Deck Name: Army of Shadows
 
 Description: Get out lots of Lasombra and win.

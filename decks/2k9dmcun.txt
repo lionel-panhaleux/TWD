@@ -5,6 +5,8 @@ March 1st 2009
 16 players
 Michael Heyder
 
+-- 2GW5.5!
+
 Deck Name: Demented Midgets
 
 Description: 'Inspired' by a deck played by Erol Hammer at the German

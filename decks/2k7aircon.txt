@@ -4,6 +4,8 @@ October 20th 2007
 13 players
 Jackson Iribarren
 
+-- 1GW5.5!
+
 Deck Name: Lasombra Político
 
 Crypt (12 cards, min=30, max=39, avg=8.67)

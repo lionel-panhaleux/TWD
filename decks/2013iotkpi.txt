@@ -5,6 +5,8 @@ September 14th 2013
 10 players
 Marco Vassallo
 
+-- 0GW3+2!
+
 Deck Name: Ruba vampiri
 
 Crypt (12 cards, min=10, max=44, avg=6.83)

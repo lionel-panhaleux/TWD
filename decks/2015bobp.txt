@@ -5,6 +5,8 @@ July 4th 2015
 12 players
 Marcin Watras
 
+-- 2GW6+1!
+
 Deck Name: Goratrix Anarch - wargrim
 Created by: Marcin Watras (based on Goratrix builds created by Tomasz Kowalewski and Alain Greiner)
 

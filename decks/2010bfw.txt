@@ -5,6 +5,8 @@ January 16th 2010
 14 players
 Hugh Angseesing
 
+-- 4GW11.5!
+
 Deck Name: Nana and friends
 
 Crypt (13 cards, min=10, max=32, avg=5.08)

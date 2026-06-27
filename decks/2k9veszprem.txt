@@ -4,6 +4,8 @@ May 23rd 2009
 10 players
 Csaba Greguss
 
+-- 2GW9!
+
 Deck Name: Chaos & Confusion ver 02
 
 Crypt (12 cards, min=19, max=32, avg=6.75)

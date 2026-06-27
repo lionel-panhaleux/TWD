@@ -4,6 +4,8 @@ August 18th 2007
 22 players
 Txus Alútiz Lizarraga
 
+-- 3GW9!
+
 Deck Name: Los chicos Llongueras
 
 Crypt (14 cards, min=9, max=22, avg=3.93)

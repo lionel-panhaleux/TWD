@@ -5,6 +5,8 @@ June 25th 2008
 25 players
 James Messer
 
+-- 2GW9!
+
 Deck Name: Gothy Pants Blocks
 
 Crypt (12 cards, min=32, max=40, avg=9)

@@ -5,6 +5,8 @@ September 15th 2012
 24 players
 Pascal Bertrand
 
+-- 2GW6+1.5!
+
 Deck Name: True Brujah Wall
 
 The deck is fairly resilient. It's some kind of Una mono-vampire

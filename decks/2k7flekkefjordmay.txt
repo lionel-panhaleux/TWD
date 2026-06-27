@@ -4,6 +4,8 @@ May 27th 2007
 23 players
 Mats Ellingsen
 
+-- 3GW11.5!
+
 Crypt (12 cards, min=12, max=32, avg=5.5)
 -----------------------------------------
 2x Selma the Repugnant               8  OBF POT ani for      prince    Nosferatu:1

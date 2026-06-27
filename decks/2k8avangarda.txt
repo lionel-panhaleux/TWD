@@ -5,6 +5,8 @@ July 5th 2008
 23 players
 Marcin Watras
 
+-- 3GW10.5!
+
 Deck Name: ANI+PRO Earth Meld Wall
 
 Crypt (12 cards, min=15, max=26, avg=5.25)

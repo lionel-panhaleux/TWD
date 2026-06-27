@@ -4,6 +4,8 @@ November 24th 2007
 13 players
 Peter Bouwman
 
+-- 1GW4!
+
 !toreador Obf vote/bleed
 Greta is the star here (as always), use Minion Tap and voter cap to
 gain pool. Get a cardinal as soon as you can, if its a heavy vote

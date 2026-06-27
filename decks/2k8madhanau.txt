@@ -5,6 +5,8 @@ August 30th 2008
 19 players
 Rudolf Scholz
 
+-- 2GW8!
+
 Deck Name: Thank You Vlada
 
 Crypt (12 cards, min=15, max=30, avg=5.92)

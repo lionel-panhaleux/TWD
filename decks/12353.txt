@@ -6,7 +6,7 @@ July 19th 2025
 James Freimuller
 https://www.vekn.net/event-calendar/event/12353
 
--- 2GW10 + 0.5 (1st seed) in final
+-- 3GW10.5+0.5!
 
 Deck Name: Exit Through the Gift Shop
 Description: Tweaks on Jesper Boje's loot the museum deck with an expectation of ally spam appearing.

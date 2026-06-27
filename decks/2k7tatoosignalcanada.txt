@@ -5,6 +5,8 @@ May 5th 2007
 14 players
 Marc Desaulniers
 
+-- 2GW7.5!
+
 Deck Name: AAA
 
 Crypt (13 cards, min=20, max=44, avg=8.46)

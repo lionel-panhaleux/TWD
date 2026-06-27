@@ -5,6 +5,8 @@ May 30th 2009
 12 players
 Leonardo Munoz
 
+-- 2GW9!
+
 Deck Name: Locos en la Corte
 
 Crypt (12 cards, min=25, max=44, avg=8.75)

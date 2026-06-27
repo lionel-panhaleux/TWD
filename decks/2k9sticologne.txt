@@ -5,6 +5,8 @@ November 8th 2009
 10 players
 Joerg Alten
 
+-- 3GW10!
+
 Deck Name: Undead Army
 
 Description: Shambling Hordes with Obfuscate and some dirty tricks

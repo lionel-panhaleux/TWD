@@ -5,6 +5,8 @@ October 3rd 2009
 51 players
 Hugh Angseesing
 
+-- 3GW9.5!
+
 Deck Name: Stick Men
 
 Crypt (12 cards, min=16, max=30, avg=5.75)

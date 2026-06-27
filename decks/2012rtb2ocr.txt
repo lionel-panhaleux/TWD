@@ -5,6 +5,8 @@ April 21st 2012
 16 players
 Radim Mec
 
+-- 1GW7+2!
+
 Deck Name: The Wanderer
 
 Crypt (12 cards, min=15, max=30, avg=5.67)

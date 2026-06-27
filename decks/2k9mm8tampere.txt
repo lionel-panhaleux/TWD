@@ -4,6 +4,8 @@ July 6th 2009
 10 players
 Heikki Palomäki
 
+-- 1GW5!
+
 Deck Name: Within the spirit
 
 Crypt (12 cards, min=16, max=31, avg=5.83)

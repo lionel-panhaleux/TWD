@@ -5,6 +5,8 @@ March 3rd 2013
 25 players
 Danilo Torrisi
 
+-- 1GW5+1.5!
+
 Deck Name: Vintage Multimaster
 
 Description: Multi master deck with old fashioned crypt

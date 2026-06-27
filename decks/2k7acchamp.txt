@@ -5,6 +5,8 @@ September 30th 2007
 35 players
 Peter Rophail
 
+-- 3GW9.5!
+
 Deck Name: Imbued Toolbox
 
 Description: A 2007 version of the deck I used to win last year's

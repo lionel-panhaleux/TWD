@@ -4,6 +4,8 @@ February 4th 2007
 50 players
 Jose Vicente Coll
 
+-- 3GW9.5!
+
 Crypt (12 cards, min=11, max=26, avg=4.58)
 ------------------------------------------
 3x Andrea Giovanni                  7  DOM NEC pot vic  Giovanni:2

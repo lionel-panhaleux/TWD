@@ -5,6 +5,8 @@ June 24th 2010
 24 players
 Hugh Angseesing
 
+-- 3GW10.5!
+
 "Split Insanity"
 
 Crypt (12 cards, min=19, max=29, avg=6)

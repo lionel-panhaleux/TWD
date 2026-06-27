@@ -4,6 +4,8 @@ June 30th 2007
 16 players
 Emanuele Sinagra
 
+-- 1GW5.5!
+
 Deck Name: Allies Parties
 
 Description: A fast Tzimisce allies deck.

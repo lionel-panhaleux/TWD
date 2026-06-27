@@ -5,6 +5,8 @@ February 13th 2011
 10 players
 Alessandro Donati
 
+-- 2GW5.5+3!
+
 Deck Name: Ahrimane Protectorate
 
 Description: New Ahrimanes Wall Deck with Anarch Tricks.

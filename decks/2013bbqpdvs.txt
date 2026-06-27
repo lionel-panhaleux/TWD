@@ -5,6 +5,8 @@ February 17th 2013
 23 players
 Óscar Caballero
 
+-- 2GW8.5+2!
+
 Deck Name: Desangradores Baalitas
 
 Crypt (13 cards, min=12, max=40, avg=6.23)

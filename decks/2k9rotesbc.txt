@@ -5,6 +5,8 @@ July 25th 2009
 12 players
 Ira Fay
 
+-- 3GW8!
+
 Deck Name: Mummify 1
 
 Crypt (12 cards, min=29, max=40, avg=8.83)

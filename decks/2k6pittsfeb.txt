@@ -4,6 +4,8 @@ February 11th 2006
 26 players
 Brad Cashdollar
 
+-- 1GW7.5!
+
 "Andrea's Angry Dragon 2.0 Redux"
 Description: a modified version of the a previous tournament winner
 

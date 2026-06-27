@@ -4,6 +4,8 @@ April 15th 2007
 18 players
 Iñaki Jiménez Alonso
 
+-- 2GW8!
+
 Deck Name: CEL Guns
 
 Crypt (12 cards, min=15, max=20, avg=4.5)

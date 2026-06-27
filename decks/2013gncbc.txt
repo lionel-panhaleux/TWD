@@ -6,6 +6,8 @@ November 30th 2013
 Bram Van Stappen
 http://www.secretlibrary.info/index.php?deck=view&amp;id=7249
 
+-- 1GW6.5+3!
+
 The TWD is one that Lucien de Prins already used in the Dutch National Championship 2011; that deck list is available on Secret Library here:
 
 Crypt (12 cards, min=9, max=19, avg=3.42)

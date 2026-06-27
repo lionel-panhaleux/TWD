@@ -4,6 +4,8 @@ May 16th 2009
 24 players
 Mike Wilson
 
+-- 1GW4.5!
+
 Deck Name: the incidental bishops
 
 Crypt (12 cards, min=12, max=37, avg=6.58)

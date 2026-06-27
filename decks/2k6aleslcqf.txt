@@ -5,6 +5,8 @@ July 8th 2006
 57 players
 Olivier Perez
 
+-- 2GW12!
+
 Deck Name: Nosferoyalties
 
 Crypt (12 cards, min=17, max=35, avg=6.83)

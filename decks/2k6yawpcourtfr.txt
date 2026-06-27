@@ -4,6 +4,8 @@ October 21st 2006
 19 players
 Jeremie Tiano
 
+-- 3GW10!
+
 Crypt (13 cards, min=36, max=44, avg=9.69)
 ------------------------------------------
 4x Sha-Ennu           11  ANI AUS CHI VIC obf tha  regent      Tzimisce:4

@@ -5,6 +5,8 @@ December 28th 2008
 16 players
 Carlos Eduardo Ganso
 
+-- 3GW11!
+
 Deck Name: Nocturns Twins
 
 Crypt (12 cards, min=12, max=21, avg=4.25)

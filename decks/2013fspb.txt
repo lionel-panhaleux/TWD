@@ -5,6 +5,8 @@ September 8th 2013
 10 players
 Tomàs López Jiménez
 
+-- 2GW9+1.5!
+
 Deck Name: Saulot Kakarot's Style
 
 Crypt (12 cards, min=17, max=44, avg=6.92)

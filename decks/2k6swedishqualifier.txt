@@ -4,6 +4,8 @@ April 15th 2006
 32 players
 Erik Torstensson
 
+-- 3GW11!
+
 Deck Name: The reincarnation of an ornithologist
 
 Crypt (12 cards, min=11, max=28, avg=5)

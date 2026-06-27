@@ -5,6 +5,8 @@ April 12th 2008
 46 players
 David Wittmann
 
+-- 3GW10!
+
 Deck Name: I like to Rumble
 
 Crypt (12 cards, min=12, max=39, avg=7.08)

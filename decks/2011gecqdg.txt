@@ -5,6 +5,8 @@ April 30th 2011
 21 players
 Manuel Diehm
 
+-- 2GW7+3!
+
 Deck Name: Pursuit of the Unaligned
 
 Crypt (12 cards, min=18, max=32, avg=6.33)

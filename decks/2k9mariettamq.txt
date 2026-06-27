@@ -5,6 +5,8 @@ February 21st 2009
 15 players
 Mike Perlman
 
+-- 2GW6!
+
 Deck Name: Law Firm says "Get off my lawn!" II
 
 This is a minimally tweaked version of a Millenium Cultist Storyline Tournament Winning Deck.

@@ -4,6 +4,8 @@ May 13th 2007
 18 players
 Daniel Carretero Ferres
 
+-- 3GW10!
+
 Deck Name: Cloaka Company
 
 Crypt (12 cards, min=14, max=34, avg=6.33)

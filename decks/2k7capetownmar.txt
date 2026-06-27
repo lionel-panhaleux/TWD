@@ -4,6 +4,8 @@ March 17th 2007
 10 players
 Demetrios Papadatos
 
+-- 1GW4.5!
+
 Deck Name: PETRA'S BROOD
 
 Crypt (12 cards, min=11, max=24, avg=4.42)

@@ -4,6 +4,8 @@ May 10th 2009
 23 players
 Alessandro Donati
 
+-- 3GW10!
+
 Deck Name: Pandermonium
 
 Description: Fate Vobis.

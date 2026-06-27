@@ -5,6 +5,8 @@ March 21st 2010
 35 players
 Alessandro Donati
 
+-- 3GW8.5!
+
 Deck Name: MonoUna
 
 Description: Classic MonoUna Deck

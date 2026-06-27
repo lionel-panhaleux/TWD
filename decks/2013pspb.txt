@@ -5,6 +5,8 @@ May 19th 2013
 19 players
 Mauricio Navate
 
+-- 1GW3.5+2.5!
+
 Deck Name: The wall - Gargoyle forever
 
 Crypt (12 cards, min=11, max=28, avg=5.08)

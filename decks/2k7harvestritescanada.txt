@@ -5,6 +5,8 @@ February 10th 2007
 19 players
 Marc Desaulniers
 
+-- 1GW6.5!
+
 Deck Name: Serial Mind Rapists
 
 Crypt (12 cards, min=13, max=40, avg=7.25)

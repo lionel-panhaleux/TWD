@@ -4,6 +4,8 @@ May 20th 2007
 10 players
 Jay Kristoff
 
+-- 3GW10!
+
 Deck Name: Brujah Home Invasion
 
 Crypt (12 cards, min=8, max=20, avg=3.33)

@@ -5,6 +5,8 @@ June 20th 2009
 18 players
 Jackson Iribarren
 
+-- 2GW8!
+
 Deck Name: Pander Equipments & Bleed
 
 Crypt (24 cards, min=4, max=8, avg=1.38)

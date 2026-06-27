@@ -5,6 +5,8 @@ July 18th 2008
 10 players
 Aleksander Idziak
 
+-- 1GW5!
+
 Deck Name: Giovanni - Sudario Refraction
 
 Crypt (12 cards, min=12, max=39, avg=6.58)

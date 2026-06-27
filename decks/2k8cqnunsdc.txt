@@ -5,6 +5,8 @@ July 12th 2008
 17 players
 Leonardo Munoz
 
+-- 2GW8!
+
 Deck Name: Malk! bleeder
 
 Crypt (12 cards, min=25, max=39, avg=8.17)

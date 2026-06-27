@@ -5,6 +5,8 @@ May 12th 2013
 15 players
 Giulio Grimaldi
 
+-- 0GW2+4!
+
 Crypt (12 cards, min=34, max=43, avg=9.75)
 ------------------------------------------
 3x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2

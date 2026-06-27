@@ -5,6 +5,8 @@ March 22nd 2009
 13 players
 James Messer
 
+-- 3GW14!
+
 Title: The Ventrue Are Always Awesome
 
 Crypt (12 cards, min=22, max=39, avg=7.75)

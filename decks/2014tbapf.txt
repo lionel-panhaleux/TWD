@@ -5,6 +5,8 @@ December 7th 2014
 13 players
 Alain Greiner
 
+-- 2GW5.5+1.5!
+
 Deck Name: Goratrix
 
 Crypt (12 cards, min=4, max=40, avg=5.92)

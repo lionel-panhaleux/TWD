@@ -4,6 +4,8 @@ February 9th 2008
 14 players
 Joakim Rapp
 
+-- 2GW8!
+
 Deck Name: Rulers of the Old Land
 
 Crypt (12 cards, min=24, max=40, avg=8.42)

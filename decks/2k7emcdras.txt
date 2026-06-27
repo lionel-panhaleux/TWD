@@ -4,6 +4,8 @@ July 28th 2007
 14 players
 Miguel Hernández Padilla
 
+-- 2GW10!
+
 Deck Name: Mejor no entres en la reunión
 
 Crypt (13 cards, min=10, max=22, avg=4.08)

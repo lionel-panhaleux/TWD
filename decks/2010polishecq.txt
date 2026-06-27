@@ -5,6 +5,8 @@ June 12th 2010
 21 players
 Jakub Serafin
 
+-- 1GW6!
+
 Deck Name: FOR Tremere
 
 Crypt (12 cards, min=23, max=36, avg=7.58)

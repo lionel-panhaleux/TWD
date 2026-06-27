@@ -5,6 +5,8 @@ October 10th 2009
 15 players
 Antonio Cobo Cuenca
 
+-- 2GW7!
+
 Deck Name: Rom Ghouls
 Created by: Antonio Cobo Cuenca based on Johannes Walch's deck
 

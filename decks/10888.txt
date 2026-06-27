@@ -7,7 +7,7 @@ Damiano Ghiaroni
 http://bcncrisis.com/tournament/184
 https://www.vekn.net/event-calendar/event/10888
 
--- 1.5vp in final
+-- 2GW5.5+1.5!
 
 Crypt (12 cards, min=37, max=44, avg=10.17)
 -------------------------------------------

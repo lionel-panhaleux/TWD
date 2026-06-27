@@ -5,6 +5,8 @@ July 20th 2008
 13 players
 Juha Nyholm
 
+-- 2GW7.5!
+
 Deck Name: Thumbs up
 
 Crypt (12 cards, min=26, max=39, avg=8.33)

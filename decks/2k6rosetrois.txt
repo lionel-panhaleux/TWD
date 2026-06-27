@@ -5,6 +5,8 @@ August 26th 2006
 15 players
 Marc Desaulniers
 
+-- 3GW11!
+
 Deck Name: Hordes of Liquidators
 
 Description: Based on Amiel Feldman's Family Business deck.

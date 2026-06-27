@@ -5,6 +5,8 @@ April 14th 2012
 23 players
 Martin Weinmayer
 
+-- 1GW5.5+1.5!
+
 Deck Name: Governed by Erol
 
 Crypt (12 cards, min=35, max=44, avg=10)

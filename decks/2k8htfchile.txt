@@ -5,6 +5,8 @@ January 12th 2008
 12 players
 Richard Cortes
 
+-- 2GW12!
+
 Deck Name: Mazo Animalismo
 
 Crypt (13 cards, min=7, max=15, avg=2.77)

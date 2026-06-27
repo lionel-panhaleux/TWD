@@ -5,6 +5,8 @@ August 30th 2009
 27 players
 Koen Tabak
 
+-- 3GW9.5!
+
 Crypt (13 cards, min=24, max=40, avg=8.08)
 ------------------------------------------
 2x Gustav Breidenstein  10  DOM FOR PRE aus cel pot  prince    Ventrue:4

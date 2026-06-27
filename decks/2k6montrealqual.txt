@@ -4,6 +4,8 @@ May 28th 2006
 23 players
 Marc Desaulniers
 
+-- 3GW11.5!
+
 Deck Name: Wings and Shovels
 
 Crypt (24 cards, min=4, max=17, avg=1.71)

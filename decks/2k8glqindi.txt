@@ -5,6 +5,8 @@ May 31st 2008
 13 players
 James Messer
 
+-- 2GW11!
+
 "!Ventrue have never sucked!"
 
 Crypt (12 cards, min=17, max=31, avg=6.08)

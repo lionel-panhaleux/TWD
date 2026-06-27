@@ -5,6 +5,8 @@ April 6th 2013
 10 players
 Tiago Rodrigues
 
+-- 1GW5.5+3!
+
 Deck Name: It is clever, but does it win?
 Created by: Nuno Moure
 

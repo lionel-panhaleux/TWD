@@ -4,6 +4,8 @@ July 11th 2009
 14 players
 Jorge Jiménez
 
+-- 2GW8!
+
 Deck Name: Lutz and his lovely Dmitra
 
 Crypt (12 cards, min=26, max=44, avg=9.17)

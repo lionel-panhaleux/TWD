@@ -4,6 +4,8 @@ December 29th 2007
 16 players
 Iñaki Jiménez Alonso
 
+-- 3GW10.5!
+
 Deck Name: Marchas Cortas
 Created by: Iñaki Jimenez (Based on a deck by Linus Garriga)
 

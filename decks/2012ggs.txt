@@ -5,6 +5,8 @@ December 15th 2012
 15 players
 Alexander Båskman
 
+-- 1GW7+4!
+
 Deck Name: Don't stop me now
 
 Crypt (12 cards, min=16, max=24, avg=5)

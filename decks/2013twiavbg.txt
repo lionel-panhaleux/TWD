@@ -5,6 +5,8 @@ October 26th 2013
 13 players
 Martin Schumacher
 
+-- 1GW3+4!
+
 Deck Name: A question of honor
 
 Crypt (12 cards, min=38, max=44, avg=10.17)

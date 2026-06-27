@@ -4,6 +4,8 @@ January 27th 2008
 13 players
 Ralf Lammert
 
+-- 3GW11!
+
 Deck Name: Dominate Is Broken
 
 Description: DOM nastiness w/ combat.

@@ -4,6 +4,8 @@ March 30th 2008
 14 players
 Gianluca Bianco
 
+-- 1GW5.5!
+
 Deck Deck Name: Toreador Beauty Ball
 Description: Classic Toreador deck.
 

@@ -4,6 +4,8 @@ May 12th 2007
 48 players
 Sebestyén Balázs
 
+-- 3GW11!
+
 Deck Name: Az örültek hálozata (Network of the Insane)
 
 Crypt (13 cards, min=8, max=22, avg=3.85)

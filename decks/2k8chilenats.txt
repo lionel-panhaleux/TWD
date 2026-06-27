@@ -5,6 +5,8 @@ November 29th 2008
 19 players
 Hugo Dey
 
+-- 3GW8!
+
 Deck Name: Governar la Carne
 
 Crypt (12 cards, min=21, max=39, avg=7.75)

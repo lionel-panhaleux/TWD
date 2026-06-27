@@ -5,6 +5,8 @@ April 1st 2012
 10 players
 Ginés Quiñonero
 
+-- 1GW4+2.5!
+
 Deck Name: Nihil novum sub sole
 
 Crypt (12 cards, min=16, max=29, avg=5.5)

@@ -5,6 +5,8 @@ March 30th 2008
 17 players
 Jean-François Lamothe
 
+-- 0GW3!
+
 Deck Name: Black Eyes V2
 
 Crypt (12 cards, min=18, max=26, avg=5.5)

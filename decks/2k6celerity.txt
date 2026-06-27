@@ -4,6 +4,8 @@ June 24th 2006
 12 players
 Robyn Tatu
 
+-- 1GW3.5!
+
 Deck Name: Troll Bridge Quiz
 
 Description: Toreador Bleed deck.

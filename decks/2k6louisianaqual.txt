@@ -5,6 +5,8 @@ April 1st 2006
 13 players
 John Baggett
 
+-- 2GW7!
+
 Saulot Multitasking: a.k.a Juice!
 
 Crypt (12 cards, min=21, max=44, avg=7.83)

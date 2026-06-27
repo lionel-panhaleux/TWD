@@ -4,6 +4,8 @@ July 29th 2006
 33 players
 Denis Gérard
 
+-- 3GW7!
+
 Deck Name: Everlasting Richter
 
 Crypt (12 cards, min=16, max=29, avg=6)

@@ -5,6 +5,8 @@ February 22nd 2014
 14 players
 Jérémie Tiano
 
+-- 1GW5+4!
+
 Crypt (12 cards, min=16, max=30, avg=5.83)
 ------------------------------------------
 2x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre          Ventrue antitribu:3

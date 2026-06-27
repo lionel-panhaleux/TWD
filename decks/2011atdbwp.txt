@@ -5,7 +5,7 @@ July 23rd 2011
 13 players
 Michal Twarowski
 
--- 3vp in final
+-- 1GW3+3!
 
 Crypt (12 cards, min=10, max=18, avg=3.42)
 ------------------------------------------

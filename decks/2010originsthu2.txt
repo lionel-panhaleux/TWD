@@ -5,6 +5,8 @@ June 24th 2010
 28 players
 Hugh Angseesing
 
+-- 3GW11!
+
 Gypsy Chicks
 
 Crypt (12 cards, min=12, max=28, avg=5.25)

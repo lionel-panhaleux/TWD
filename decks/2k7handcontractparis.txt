@@ -4,6 +4,8 @@ May 26th 2007
 23 players
 Pierre Tran-Van
 
+-- 1GW7.5!
+
 Deck Name: Back from Torpor
 
 description: This deck won the "Hand Contract", 23 players, Paris,

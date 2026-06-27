@@ -4,6 +4,8 @@ April 21st 2007
 16 players
 Marc Desaulniers
 
+-- 3GW11.5!
+
 Deck Name: B2B (Back to Basics)
 
 Crypt (13 cards, min=16, max=40, avg=7)

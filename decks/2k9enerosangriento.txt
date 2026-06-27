@@ -5,6 +5,8 @@ January 25th 2009
 34 players
 Sergio Gracia
 
+-- 4GW13.5!
+
 4 Game Wins
 
 Crypt (12 cards, min=11, max=33, avg=5.92)

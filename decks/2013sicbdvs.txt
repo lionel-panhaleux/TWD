@@ -5,6 +5,8 @@ March 16th 2013
 25 players
 Tomàs López Jiménez
 
+-- 1GW5.5+3!
+
 Deck Name: Panders votos con 2 Inners
 Created by: Based on a Peter Talmasci deck
 

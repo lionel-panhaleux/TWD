@@ -4,6 +4,8 @@ February 2nd 2009
 10 players
 Otto Kallokoski
 
+-- 2GW8!
+
 Deck Name: Conglomerate of the People's Republic
 
 Crypt (12 cards, min=19, max=41, avg=7.67)

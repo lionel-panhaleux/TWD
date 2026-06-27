@@ -5,6 +5,8 @@ October 2nd 2009
 37 players
 Ferenc Vasadi
 
+-- 4GW11!
+
 Deck Name: Ravnos LCQ
 
 Crypt (12 cards, min=10, max=32, avg=5.25)

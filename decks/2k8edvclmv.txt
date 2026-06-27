@@ -5,6 +5,8 @@ February 23rd 2008
 10 players
 Fernando Pedraza
 
+-- 1GW4!
+
 Deck Name: Old School Mages
 
 Crypt (12 cards, min=23, max=32, avg=6.92)

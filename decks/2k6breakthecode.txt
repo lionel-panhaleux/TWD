@@ -5,6 +5,8 @@ May 14th 2006
 10 players
 Allan Birket
 
+-- 3GW9.5!
+
 Deck Name: Shifting The Pranks
 
 Crypt (12 cards, min=26, max=42, avg=8.17)

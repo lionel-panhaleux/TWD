@@ -4,6 +4,8 @@ May 27th 2007
 12 players
 Sergio Trentin Jr.
 
+-- 2GW7!
+
 The deck: Alastores Pipoqueiros (brazilian slang for Gunner Alastors)
 
 Crypt (12 cards, min=20, max=44, avg=8.33)

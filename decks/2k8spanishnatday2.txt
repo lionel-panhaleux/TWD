@@ -5,6 +5,8 @@ November 30th 2008
 40 players
 Iñaki Jiménez Alonso
 
+-- 3GW8!
+
 Deck Name: Nosfe-Rat-Tools
 
 Crypt (12 cards, min=26, max=40, avg=8.5)

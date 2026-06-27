@@ -5,6 +5,8 @@ November 2nd 2010
 12 players
 Brad Cashdollar
 
+-- 1GW4.5!
+
 "Baker's Angry Dragon"
 
 Crypt (12 cards, min=23, max=36, avg=7.5)

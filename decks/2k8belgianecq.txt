@@ -4,6 +4,8 @@ May 4th 2008
 16 players
 Jörg Alten
 
+-- 2GW7.5!
+
 Deck Name: Shape and Gnaw 3.0 (Post-LotN)
 
 Modified variant with cards from Lords of the Night

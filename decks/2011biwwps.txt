@@ -5,6 +5,8 @@ September 24th 2011
 29 players
 Tomasz Kowalewski
 
+-- 1GW6+1.5!
+
 Deck Name: Saulot with tremere buddies
 
 Crypt (12 cards, min=23, max=44, avg=8.33)

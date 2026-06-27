@@ -4,6 +4,8 @@ September 7th 2008
 10 players
 Matthew Hirsch
 
+-- 1GW6!
+
 Deck Name: Lasombra Mamba 2008
 
 This is a variant of the Lasombra obt/dom stealth/bleed deck that I've

@@ -5,6 +5,8 @@ September 7th 2008
 19 players
 Heikki Palomäki
 
+-- 3GW9!
+
 Deck Name: CHAIN reaction
 
 Description: more Dominate = better

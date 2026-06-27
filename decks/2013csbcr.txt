@@ -5,6 +5,8 @@ October 12th 2013
 14 players
 Daniel Gargulák
 
+-- 2GW7+5!
+
 Deck Name: Brujah Alastors
 
 Crypt (12 cards, min=22, max=36, avg=7.33)

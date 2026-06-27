@@ -4,6 +4,8 @@ February 21st 2009
 12 players
 Teresa Neves
 
+-- 2GW10!
+
 Deck Name: Classic Giovanni Tap and Bleed
 
 Description: Classic design block denial bleed deck. From the times of

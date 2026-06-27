@@ -5,6 +5,8 @@ April 4th 2009
 10 players
 Eduardo Mateus
 
+-- 3GW8!
+
 Deck Name: The Traitor Amongst Us
 
 Crypt (13 cards, min=8, max=40, avg=5.69)

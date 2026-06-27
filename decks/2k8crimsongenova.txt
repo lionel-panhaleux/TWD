@@ -5,6 +5,8 @@ April 6th 2008
 23 players
 Patrizio Zippone
 
+-- 2GW9!
+
 Created by: Patrizio Zippone (heavily based on the winning deck of Guillaume Lefebvre http://www.vekn.fr/decks/twd.htm#2k7quebecchamp)
 Description: Lasombra and nocturn
 

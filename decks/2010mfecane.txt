@@ -4,6 +4,8 @@ July 11th 2010
 15 players
 Daniel Boud
 
+-- 2GW7.5!
+
 Deck Name: Game, Set, Match
 
 Description: A very straight forward Settite stealth/bleed deck

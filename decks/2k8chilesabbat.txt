@@ -5,6 +5,8 @@ December 27th 2008
 10 players
 Gino Sepúlveda
 
+-- 3GW9!
+
 Deck Name: Ventrue Mary Anne Blaire
 
 Crypt (12 cards, min=23, max=40, avg=8.25)

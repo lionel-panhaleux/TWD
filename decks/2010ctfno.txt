@@ -5,6 +5,8 @@ January 24th 2010
 20 players
 Mark Loughman
 
+-- 2GW7!
+
 Deck Name: Wall of Madness
 
 Crypt (12 cards, min=15, max=40, avg=6.75)

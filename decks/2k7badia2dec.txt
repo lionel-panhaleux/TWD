@@ -5,6 +5,8 @@ December 2nd 2007
 30 players
 Miguel Pascual
 
+-- 3GW12.5!
+
 Deck Name: Ladillas asesinas
 
 Crypt (12 cards, min=9, max=21, avg=3.83)

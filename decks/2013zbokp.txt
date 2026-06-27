@@ -5,6 +5,8 @@ September 28th 2013
 15 players
 Aleksander Idziak
 
+-- 2GW8+2!
+
 Deck Name: Kiasyd - Earth Swords v 2.0
 
 Crypt (12 cards, min=18, max=30, avg=6.08)

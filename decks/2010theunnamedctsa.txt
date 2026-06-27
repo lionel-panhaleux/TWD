@@ -4,6 +4,8 @@ April 11th 2010
 13 players
 Marc Pittermann
 
+-- 1GW4+4!
+
 Deck Name: !Ventrue Block and Bleed
 
 Description: Block important actions, bounce big bleeds and wait

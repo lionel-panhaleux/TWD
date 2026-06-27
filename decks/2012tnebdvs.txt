@@ -5,6 +5,8 @@ December 15th 2012
 25 players
 Raul Lara Algarra
 
+-- 1GW6+3!
+
 Deck Name: Cara Roja
 
 Crypt (12 cards, min=22, max=36, avg=7.42)

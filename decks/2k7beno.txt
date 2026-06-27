@@ -4,6 +4,8 @@ June 15th 2007
 12 players
 Bob Joseph
 
+-- 1GW5!
+
 Deck Name: Imbued 1.0
 
 Description: Thanks to Matthew Morgan for the idea.

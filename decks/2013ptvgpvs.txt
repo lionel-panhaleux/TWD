@@ -5,6 +5,8 @@ March 23rd 2013
 13 players
 Germán Uriarte
 
+-- 1GW4+3!
+
 Deck Name: Spider, the best
 
 Crypt (12 cards, min=9, max=40, avg=6.75)

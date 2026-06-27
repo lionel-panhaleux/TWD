@@ -5,6 +5,8 @@ July 22nd 2007
 16 players
 Brian Moritz
 
+-- 1GW6!
+
 Gangrel (Beckett)
 
 Crypt (12 cards, min=32, max=43, avg=9.42)

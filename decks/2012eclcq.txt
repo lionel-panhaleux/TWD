@@ -5,6 +5,8 @@ October 26th 2012
 129 players
 Pierre Tran-Van
 
+-- 2GW8+1.5!
+
 Deck Name: EC 2012 LCQ: Toreador Triple-A
 
 Crypt (12 cards, min=19, max=43, avg=8.17)

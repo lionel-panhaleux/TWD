@@ -5,6 +5,8 @@ March 3rd 2013
 12 players
 Bernat Pérez
 
+-- 1GW5+1.5!
+
 Deck Name: Salubri antitribu wall
 
 Crypt (12 cards, min=17, max=32, avg=6.5)

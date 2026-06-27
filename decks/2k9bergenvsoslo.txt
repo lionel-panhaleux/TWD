@@ -4,6 +4,8 @@ March 21st 2009
 23 players
 Vidar Wigand
 
+-- 2GW6.5!
+
 Deck Name: The Majestic fast reactors
 
 Crypt (12 cards, min=21, max=34, avg=6.75)

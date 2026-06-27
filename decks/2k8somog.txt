@@ -4,6 +4,8 @@ December 13th 2008
 13 players
 Michael Holmström
 
+-- 2GW8!
+
 Deck Name: Terrorist-lek
 
 Description: "It's a combat deck"

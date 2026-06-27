@@ -5,6 +5,8 @@ December 10th 2006
 15 players
 Scott Gomes
 
+-- 3GW11!
+
 Deck Name: Bats Cats and Yuri's mustache
 
 Crypt (12 cards, min=8, max=19, avg=3.25)

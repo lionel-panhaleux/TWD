@@ -5,6 +5,8 @@ June 20th 2010
 14 players
 Erik Torstensson
 
+-- 4GW13!
+
 Deck Name: inhale the blinded eyes that see
 
 Crypt (12 cards, min=4, max=15, avg=2.5)

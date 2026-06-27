@@ -5,6 +5,8 @@ July 22nd 2007
 64 players
 Noel Giménez Infante
 
+-- 2GW8.5!
+
 Crypt (12 cards, min=10, max=16, avg=3.33)
 ------------------------------------------
 4x Fidus, The Shrunken Beast  4  for tha vis  Gargoyle:2

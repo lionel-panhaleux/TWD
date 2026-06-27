@@ -5,6 +5,8 @@ September 8th 2007
 19 players
 Nikolaj Wendt
 
+-- 3GW11.5!
+
 Deck Name: PPP - Princes, Parities and Potence
 
 Crypt (12 cards, min=24, max=39, avg=8.08)

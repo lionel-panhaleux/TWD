@@ -5,6 +5,8 @@ July 5th 2008
 74 players
 Miguel Pascual
 
+-- 4GW12!
+
 Deck Name: Kholó y GOOOOOL
 
 While not (Library is empty)

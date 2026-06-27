@@ -5,6 +5,8 @@ October 22nd 2011
 16 players
 Martin Varga
 
+-- 2GW6+1.5!
+
 Deck Name: Akunanse 16 wakes
 Created by: Brian Moritz
 

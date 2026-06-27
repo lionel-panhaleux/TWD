@@ -5,6 +5,8 @@ November 27th 2011
 17 players
 Genís Prats
 
+-- 1GW5+2!
+
 Deck Name: Dementamites
 
 Crypt (12 cards, min=13, max=40, avg=7.25)

@@ -4,6 +4,8 @@ July 21st 2007
 10 players
 Fletcher Gibson
 
+-- 0GW1.5!
+
 Deck Name: Welcome to Valhalla
 
 Description: Torvus/Gangrel combat

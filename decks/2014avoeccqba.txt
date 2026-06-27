@@ -5,6 +5,8 @@ April 26th 2014
 10 players
 Simon Reed
 
+-- 1GW7.5+4!
+
 Ventrue Stickmen
 This one is based on Hugh's winning deck, he convinced me that the Ventrue Stickmen
 were stronger than the !Ventrue Grinder. Added a few ally specific cards,

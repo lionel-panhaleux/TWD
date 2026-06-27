@@ -5,6 +5,8 @@ June 30th 2006
 24 players
 Ben Swainbank
 
+-- 3GW12!
+
 Crypt (12 cards, min=20, max=32, avg=6.33)
 ------------------------------------------
 5x Lithrac                        5  OBF for thn                       Samedi:2

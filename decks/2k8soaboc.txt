@@ -4,6 +4,8 @@ April 6th 2008
 10 players
 James Messer
 
+-- 1GW4.5!
+
 Rumble in the Jungle
 
 Crypt (12 cards, min=17, max=36, avg=7.17)

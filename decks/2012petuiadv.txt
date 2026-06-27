@@ -5,6 +5,8 @@ September 16th 2012
 13 players
 Gianluca Scala
 
+-- 0GW2.5+1.5!
+
 Deck Name: Team Leandro
 
 Crypt (12 cards, min=39, max=44, avg=10.5)

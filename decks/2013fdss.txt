@@ -5,6 +5,8 @@ February 16th 2013
 13 players
 Jonas Hovmark
 
+-- 1GW3+4!
+
 Deck Name: Ventrue Anti Grind
 
 Crypt (12 cards, min=10, max=30, avg=4.83)

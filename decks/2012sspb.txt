@@ -5,6 +5,8 @@ December 9th 2012
 10 players
 Desso Alastor
 
+-- 2GW6+2!
+
 Deck Name: Mascara da Morte
 
 Crypt (12 cards, min=12, max=36, avg=5.83)

@@ -5,6 +5,8 @@ August 22nd 2009
 14 players
 Peter Modzelewski
 
+-- 3GW11!
+
 Deck Name: New Brujah Progeny
 
 Crypt (12 cards, min=18, max=34, avg=6.5)

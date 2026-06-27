@@ -4,6 +4,8 @@ October 8th 2006
 15 players
 Charles Lechasseur
 
+-- 3GW9.5!
+
 Deck Name: Henry: The Gathering
 
 Description: A deck inspired by Ben Peal's Henry Twister deck. Tool up

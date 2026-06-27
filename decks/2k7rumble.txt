@@ -4,6 +4,8 @@ January 6th 2007
 17 players
 Martin Gascon
 
+-- 3GW8!
+
 Deck Name: Foul Magnetism
 
 Crypt (12 cards, min=18, max=40, avg=7.33)

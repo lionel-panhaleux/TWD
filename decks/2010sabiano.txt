@@ -5,6 +5,8 @@ March 19th 2010
 15 players
 Rodd Closson
 
+-- 1GW6!
+
 Deck Name: The Mistresses' Men
 
 Crypt (12 cards, min=30, max=43, avg=9.17)

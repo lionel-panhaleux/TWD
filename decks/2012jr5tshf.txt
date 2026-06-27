@@ -5,6 +5,8 @@ July 1st 2012
 20 players
 Matias Frosterus
 
+-- 2GW8+1.5!
+
 Deck Name: Mora AKA Princes Outsource Their Stealth
 
 Description: The idea is to be able to consistently bleed for

@@ -4,6 +4,8 @@ June 21st 2008
 17 players
 Ruben Feldman
 
+-- 3GW12!
+
 Deck Name: The Bleeding Vignes
 
 Crypt (12 cards, min=15, max=25, avg=5)

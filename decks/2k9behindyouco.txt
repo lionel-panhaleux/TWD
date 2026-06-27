@@ -5,6 +5,8 @@ June 14th 2009
 10 players
 Bob Joseph
 
+-- 2GW9!
+
 Deck Name: shamblers
 
 Crypt (12 cards, min=14, max=26, avg=5)

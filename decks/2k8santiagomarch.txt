@@ -5,6 +5,8 @@ March 15th 2008
 13 players
 Hernán Rodríguez
 
+-- 2GW12!
+
 Deck Name: No Secrets from the Akunanse
 
 Description: A control deck based in the card "No Secrets fron the

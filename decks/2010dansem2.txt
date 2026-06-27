@@ -5,6 +5,8 @@ May 8th 2010
 12 players
 Tomasz Izydorczyk
 
+-- 3GW10.5!
+
 Deck Name: Miscegenation
 
 Crypt (12 cards, min=22, max=36, avg=7.67)

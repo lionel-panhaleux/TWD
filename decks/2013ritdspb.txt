@@ -5,6 +5,8 @@ March 10th 2013
 17 players
 Francisco Mantovanini Carvalho
 
+-- 1GW4+4!
+
 Deck Name: Power to the People
 
 Crypt (12 cards, min=4, max=16, avg=2.33)

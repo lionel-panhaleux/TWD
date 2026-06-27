@@ -5,6 +5,8 @@ October 1st 2006
 26 players
 Jason Ryan
 
+-- 3GW9.5!
+
 Crypt (12 cards, min=18, max=34, avg=6.58)
 ------------------------------------------
 3x Julia Prima        7  DOM OBT aus myt                  Kiasyd:2

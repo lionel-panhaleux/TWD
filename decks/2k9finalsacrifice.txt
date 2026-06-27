@@ -4,6 +4,8 @@ December 5th 2009
 31 players
 Jakub Baranski
 
+-- 2GW8!
+
 Deck Name: Khazar's Diary
 
 Crypt (12 cards, min=8, max=17, avg=3.08)

@@ -4,6 +4,8 @@ April 26th 2009
 16 players
 Alessandro Donati
 
+-- 1GW5.5!
+
 Deck Name: NecròsBleed
 
 Description: Classic Giovanni PowerBleed with Le Dinh Tho "Guest Star".

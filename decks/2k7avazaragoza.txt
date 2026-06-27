@@ -4,6 +4,8 @@ December 15th 2007
 21 players
 Miguel del Valle
 
+-- 2GW5!
+
 Deck Name: Me pareció ver un lindo gatito
 
 Crypt (17 cards, min=4, max=21, avg=2)

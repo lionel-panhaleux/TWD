@@ -4,6 +4,8 @@ August 22nd 2010
 12 players
 Jonatan Sjöberg
 
+-- 2GW9!
+
 Deck Name: Lasse Royaltys
 
 Crypt (12 cards, min=34, max=40, avg=9.33)

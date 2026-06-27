@@ -5,6 +5,8 @@ September 30th 2006
 24 players
 Claudio Gomes
 
+-- 3GW11.5!
+
 Deck Name: Grab n Smash
 
 Shamelessly based on Deni's Gerard Last Stand (twd 29/6/06)

@@ -4,6 +4,8 @@ May 2nd 2010
 18 players
 Tony Wedd
 
+-- 2GW5.5!
+
 Deck Name: Maelific
 
 Crypt (12 cards, min=12, max=40, avg=5.92)

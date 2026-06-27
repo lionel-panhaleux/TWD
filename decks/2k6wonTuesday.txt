@@ -5,6 +5,8 @@ October 3rd 2006
 25 players
 Brian Moritz
 
+-- 2GW6.5!
+
 Deck Name: Gangrel (Beckett)
 
 Crypt (12 cards, min=32, max=43, avg=9.42)

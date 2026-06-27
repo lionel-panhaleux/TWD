@@ -5,6 +5,8 @@ May 17th 2014
 18 players
 Adam Hulse
 
+-- 2GW6+2!
+
 Deck Name: Rule of Four
 
 Description: An AUS CEL PRE "four-card limit" deck (Obviously the name of the deck

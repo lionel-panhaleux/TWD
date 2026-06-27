@@ -5,6 +5,8 @@ September 18th 2006
 12 players
 Peter Rophail
 
+-- 2GW6!
+
 Protean-Dominate Stealth-Bleed
 Simple stealth-bleed with the added resilience provided by combat ends.
 Earth Meld greatly improves the deck's ability to block multiple actions

@@ -4,6 +4,8 @@ January 28th 2007
 10 players
 Ben Swainbank
 
+-- 1GW6.5!
+
 Deck Name: Imperial March
 
 This is a kinda Power Tools deck. It's toolboxy with a bunch of power

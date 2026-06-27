@@ -5,6 +5,8 @@ May 23rd 2009
 15 players
 Dennis Lien
 
+-- 3GW7.5!
+
 Deck Name: When Sonja gets Blue
 
 Crypt (12 cards, min=20, max=23, avg=5.25)

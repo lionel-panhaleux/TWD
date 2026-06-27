@@ -4,6 +4,8 @@ March 14th 2009
 14 players
 Alex Ek
 
+-- 2GW10!
+
 Deck Name: Neo-Lawfirm
 
 Description: There are now 3 different lawfirm crypts and this one is

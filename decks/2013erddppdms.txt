@@ -5,6 +5,8 @@ August 31st 2013
 12 players
 David Quiñonero-Santiago
 
+-- 1GW4+1.5!
+
 Deck Name: Dragos' Hidden Strength Exposed
 
 Crypt (12 cards, min=20, max=28, avg=6.33)

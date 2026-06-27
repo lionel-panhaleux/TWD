@@ -5,6 +5,8 @@ June 13th 2009
 20 players
 Sebestyén Balázs
 
+-- 2GW6.5!
+
 Deck Name: Network of the Insane
 
 Crypt (13 cards, min=11, max=25, avg=4.54)

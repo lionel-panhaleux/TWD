@@ -6,7 +6,7 @@ August 24th 2025
 Pedro Andrade
 https://www.vekn.net/event-calendar/event/12602
 
--- 3vp in final
+-- 0GW1.5+3!
 
 Deck Name: Tzi do Hira
 Description: Tzi of Hira is a Tzimisce deck focused on block and bleed. Packed with interception cards and aggravated combat, it's quite punishing when blocking, but its arsenal also boasts powerful bleeds thanks to its Domination modifiers.

@@ -5,6 +5,8 @@ January 24th 2010
 17 players
 Ivan Chebunin
 
+-- 3GW11!
+
 Deck Name: Hello from the past
 
 Description: Just wanted to remember how boring this deck is.

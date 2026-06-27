@@ -4,6 +4,8 @@ May 28th 2006
 17 players
 François Morand
 
+-- 2GW6!
+
 "Tupdog power bleed"
 
 Crypt (25 cards, min=4, max=24, avg=2.36)

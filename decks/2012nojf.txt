@@ -5,6 +5,8 @@ November 17th 2012
 14 players
 Tomi Sillanpää
 
+-- 1GW3.5+3!
+
 Deck Name: Toreador Power Bleed
 Created by: Aleksi Nuora (ever so slightly modified by Tomi Sillanpää)
 

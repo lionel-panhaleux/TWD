@@ -4,6 +4,8 @@ September 12th 2009
 44 players
 Joni Huumonen
 
+-- 2GW10!
+
 Deck Name: Potence rush
 
 Crypt (12 cards, min=16, max=25, avg=4.92)

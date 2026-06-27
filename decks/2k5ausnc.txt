@@ -5,6 +5,8 @@ October 2nd 2005
 Peter Rophail
 https://groups.google.com/g/rec.games.trading-cards.jyhad/c/u9PNoz3yX5c
 
+-- 2GW7.5!
+
 Deck Name: Thaumaturgy Toolbox
 
 Crypt (12 cards, min=14, max=28, avg=5.58)

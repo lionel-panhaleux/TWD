@@ -4,6 +4,8 @@ November 28th 2009
 28 players
 Radoslaw Staszewski
 
+-- 2GW9!
+
 Deck Name: Gangrel Assault ver.3.1.
 
 Crypt (12 cards, min=8, max=18, avg=3.17)

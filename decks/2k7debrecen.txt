@@ -4,6 +4,8 @@ June 2nd 2007
 28 players
 Csaba Greguss
 
+-- 3GW9.5!
+
 Tournament Deck Name: Justine and the Others
 
 Crypt (12 cards, min=17, max=31, avg=6)

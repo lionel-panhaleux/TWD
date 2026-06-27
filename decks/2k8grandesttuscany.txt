@@ -5,6 +5,8 @@ January 20th 2008
 22 players
 Danilo Torrisi
 
+-- 3GW11!
+
 Deck Name: Shambling Hordes
 
 Description: fast shambling hordes deck.

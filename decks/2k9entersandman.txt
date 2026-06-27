@@ -5,6 +5,8 @@ September 26th 2009
 12 players
 Cristian Perez
 
+-- 2GW6!
+
 Deck Name: Adana & Enkidu
 
 Crypt (12 cards, min=34, max=44, avg=10.08)

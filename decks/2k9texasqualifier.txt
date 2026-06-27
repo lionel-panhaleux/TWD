@@ -5,6 +5,8 @@ May 30th 2009
 12 players
 Andy Smith
 
+-- 2GW7.5!
+
 Deck Name: (Still) Crazy Bird Lady
 
 Crypt (12 cards, min=18, max=32, avg=6.33)

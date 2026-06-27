@@ -6,6 +6,8 @@ December 6th 2009
 César Ruipérez
 https://www.vekn.net/event-calendar/event/3846
 
+-- 4GW14!
+
 Crypt (15 cards, min=4, max=24, avg=3.4)
 ----------------------------------------
 5x Anarch Convert                   1  -none-           Caitiff:ANY

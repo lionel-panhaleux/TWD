@@ -5,6 +5,8 @@ September 20th 2008
 144 players
 Sebestyén Balázs
 
+-- 3GW11.5!
+
 Deck Name: Weenie Auspex Anarch
 
 Crypt (17 cards, min=4, max=16, avg=2.24)

@@ -5,6 +5,8 @@ August 2nd 2009
 13 players
 Steve Harris
 
+-- 2GW5.5!
+
 Deck Name: Owain is everybody's friend
 
 Crypt (12 cards, min=21, max=32, avg=6.83)

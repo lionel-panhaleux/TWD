@@ -5,6 +5,8 @@ May 6th 2007
 11 players
 Antero Leppänen
 
+-- 4GW13!
+
 Deck Name: The Usual Suspects
 
 Description: a generic Imbued deck

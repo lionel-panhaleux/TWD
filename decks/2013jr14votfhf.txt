@@ -5,6 +5,8 @@ April 21st 2013
 17 players
 Marko Saari
 
+-- 1GW4.5+3!
+
 Deck Name: LOLcats
 
 Description: Get quickly some Rock Cats and other allies.

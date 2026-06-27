@@ -5,6 +5,8 @@ March 17th 2013
 12 players
 Ginés Quiñonero
 
+-- 2GW7+2.5!
+
 Deck Name: The Inert Circle
 
 Crypt (12 cards, min=36, max=44, avg=10.17)

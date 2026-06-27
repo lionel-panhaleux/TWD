@@ -5,6 +5,8 @@ July 21st 2007
 10 players
 Felipe Fiuza
 
+-- 1GW4.5!
+
 Deck Name: Hunters Hunted 2
 
 Crypt (12 cards, min=15, max=22, avg=4.75)

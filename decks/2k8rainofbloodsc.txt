@@ -4,6 +4,8 @@ April 26th 2008
 13 players
 Waldo Peyrau
 
+-- 1GW4.5!
+
 Deck Name: Guruhi Votos Combate
 
 Crypt (12 cards, min=30, max=40, avg=8.67)

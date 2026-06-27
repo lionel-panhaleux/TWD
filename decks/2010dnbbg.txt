@@ -5,6 +5,8 @@ October 23rd 2010
 16 players
 Jörg Alten
 
+-- 2GW8!
+
 Crypt (12 cards, min=19, max=32, avg=6.5)
 -----------------------------------------
 4x Vidal Jarbeaux           8  PRE aus cel obf pot            Toreador:5

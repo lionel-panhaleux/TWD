@@ -5,6 +5,8 @@ August 10th 2014
 13 players
 Matti Palomäki
 
+-- 0GW3+3!
+
 Deck Name: mökä
 
 Crypt (12 cards, min=32, max=40, avg=8.67)
